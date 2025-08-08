@@ -1,3 +1,36 @@
+# Hi there, I'm Manan Dhuri 👋
+
+I’m a Data Scientist with 6+ years of experience building and deploying AI solutions that turn complex data into actionable insights. My work spans anomaly detection, forecasting, predictive maintenance, and AI agent integration — delivered at scale for manufacturing, automotive, and pharma clients.
+
+---
+
+### Tech Stack
+**Languages:** Python, SQL, PySpark, R  
+**Libraries:** pandas, numpy, scikit-learn, tensorflow, keras, langchain, langgraph  
+**Tools:** Azure, Databricks, Spark, Power BI, Git  
+**Specialties:** Machine Learning, Deep Learning, LLMs, AI Agents, Forecasting, Time Series, Statistics, Data Visualization
+
+---
+
+### Education
+- Executive MBA – IIM Kozhikode (2027)  
+- B.Tech – Manipal Institute of Technology (2019)  
+- Hugging Face AI Agents Certification (2025)  
+- Databricks Generative AI Engineer Associate (2025)  
+
+---
+### Certifications
+- Hugging Face AI Agents Certification (2025)  
+- Databricks Generative AI Engineer Associate (2025)
+
+---
+### Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manan%20Dhuri-blue)](https://www.linkedin.com/in/manandhuri)  
+
+---
+⭐️ *Always looking for interesting data problems to solve and products to build.*
+
+
 ### 🛠 Tech Stack
 
 <p align="left">
