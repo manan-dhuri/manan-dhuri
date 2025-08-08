@@ -15,7 +15,7 @@ I’m a Data Scientist with 6+ years of experience building and deploying AI sol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manan%20Dhuri-blue)](https://www.linkedin.com/in/manandhuri)  
 
 ---
-### 🛠 Tech Stack
+### Tech Stack
 
 <p align="left">
   <!-- Languages -->
@@ -40,12 +40,17 @@ I’m a Data Scientist with 6+ years of experience building and deploying AI sol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Apache Spark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
----
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7A41D&lines=Data+Scientist;Generative+AI+Engineer;Anomaly+Detection+Expert)](https://git.io/typing-svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=manan-dhuri&color=blue)
+---
 
 ### Currently Exploring
 - Agentic AI tasks in Supply Chain & Manufacturing domain
 - MLOps at Scale
 - Lakeflow technologies by Databricks
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7A41D&lines=Data+Scientist;Generative+AI+Engineer;Anomaly+Detection+Expert)](https://git.io/typing-svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=manan-dhuri&color=blue)
+
+
