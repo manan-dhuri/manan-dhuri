@@ -4,14 +4,6 @@ I’m a Data Scientist with 6+ years of experience building and deploying AI sol
 
 ---
 
-### Tech Stack
-**Languages:** Python, SQL, PySpark, R  
-**Libraries:** pandas, numpy, scikit-learn, tensorflow, keras, langchain, langgraph  
-**Tools:** Azure, Databricks, Spark, Power BI, Git  
-**Specialties:** Machine Learning, Deep Learning, LLMs, AI Agents, Forecasting, Time Series, Statistics, Data Visualization
-
----
-
 ### Education
 - Executive MBA – IIM Kozhikode (2027)  
 - B.Tech – Manipal Institute of Technology (2019)  
