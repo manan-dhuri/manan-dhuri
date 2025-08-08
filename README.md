@@ -57,7 +57,7 @@ I’m a Data Scientist with 6+ years of experience building and deploying AI sol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7A41D&lines=Data+Scientist;Generative+AI+Engineer;Predictive+Maintenance+Specialist;Anomaly+Detection+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7A41D&lines=Data+Scientist;Generative+AI+Engineer;Anomaly+Detection+Expert)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=manan-dhuri&color=blue)
 
