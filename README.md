@@ -1,4 +1,4 @@
-# Hi there, I'm Manan Dhuri 👋
+# Hi there, I'm Manan 👋
 
 I’m a Data Scientist with 6+ years of experience building and deploying AI solutions that turn complex data into actionable insights. My work spans anomaly detection, forecasting, predictive maintenance, and AI agent integration — delivered at scale for manufacturing, automotive, and pharma clients.
 
@@ -56,3 +56,12 @@ I’m a Data Scientist with 6+ years of experience building and deploying AI sol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Apache Spark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7A41D&lines=Data+Scientist;Generative+AI+Engineer;Predictive+Maintenance+Specialist;Anomaly+Detection+Expert)](https://git.io/typing-svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=manan-dhuri&color=blue)
+
+### Currently Exploring
+- Agentic AI tasks in Supply Chain & Manufacturing domain
+- MLOps at Scale
+- Lakeflow technologies by Databricks
